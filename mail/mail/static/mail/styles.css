@@ -1,0 +1,44 @@
+textarea {
+    min-height: 400px;
+}
+
+.unread {
+    background-color: white;
+    border-color: #d6d6d6;
+}
+
+.read {
+    background-color: grey;
+    border-color: #f2f2f2;
+}
+
+.email-container {
+    border: 2px;
+    border-color: grey;
+
+}
+
+.email {
+    border: 2px;
+    border-color: grey;
+}
+
+/* .subject {
+
+}
+
+.body {
+
+ }
+
+.recipients {
+
+}
+
+.timestamp {
+
+}
+
+.sender {
+
+} */
